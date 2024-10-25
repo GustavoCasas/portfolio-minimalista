@@ -5,12 +5,12 @@
     "image": "/me.webp",
     "email": "gustavocasasok@gmail.com ",
     "phone": " +542266513050",
-    "age": "28",
+    "age": "29",
     "url": "https://www.linkedin.com/in/gustavo-emanuel-casas-7a5770174/",
     "summary": "¡Hola! Yo soy Gustavo, tengo 29 años, y te cuento un poco más sobre mí. Tanto mis pasatiempos como mi experiencia laboral me han proporcionado habilidades en diversas áreas. Como técnico, he tenido la oportunidad de trabajar en la reparación de equipos, la instalación de una amplia variedad de programas y la provisión de variadas soluciones digitales que han asegurado que las personas puedan disfrutar eficientemente de la tecnología. Además, imparto clases particulares de informática y otras materias de nivel secundario, brindando apoyo tanto a estudiantes como a docentes que buscan actualizar sus métodos o resolver inquietudes del ámbito informático.",
     "resume": "También me adentre en el mundo de la programación Full Stack! Este desafío me permitió desarrollar mis aptitudes y seguir apendiendo y creciendo en este campo de constante evolución. Siempre me encuentro abierto a nuevas oportunidades! Si buscas un profesional apasionado y versátil que pueda aportar experiencia técnica o habilidades pedagógicas, ¡me encantaría contactarme con vos! 🚀",
     "location": {
-      "address": "27 Nro 1161",
+      "address": "wtf",
       "postalCode": "7620",
       "city": "Balcarce, Buenos Aires",
       "countryCode": "AR",
@@ -30,7 +30,7 @@
       {
         "network": "GitHub",
         "username": "",
-        "url": "https://github.com/"
+        "url": "https://github.com/GustavoCasas"
       }
     ]
   },
