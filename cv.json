@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Gustavo Emanuel Casas",
+    "label": "IT Support & Full Stack Developer (Trainee)",
+    "image": "/me.webp",
+    "email": "gustavocasasok@gmail.com ",
+    "phone": " +542266513050",
+    "age": "28",
+    "url": "https://www.linkedin.com/in/gustavo-emanuel-casas-7a5770174/",
+    "summary": "¡Hola! Yo soy Gustavo, tengo 29 años, y te cuento un poco más sobre mí. Tanto mis pasatiempos como mi experiencia laboral me han proporcionado habilidades en diversas áreas. Como técnico, he tenido la oportunidad de trabajar en la reparación de equipos, la instalación de una amplia variedad de programas y la provisión de variadas soluciones digitales que han asegurado que las personas puedan disfrutar eficientemente de la tecnología. Además, imparto clases particulares de informática y otras materias de nivel secundario, brindando apoyo tanto a estudiantes como a docentes que buscan actualizar sus métodos o resolver inquietudes del ámbito informático.",
+    "resume": "También me adentre en el mundo de la programación Full Stack! Este desafío me permitió desarrollar mis aptitudes y seguir apendiendo y creciendo en este campo de constante evolución. Siempre me encuentro abierto a nuevas oportunidades! Si buscas un profesional apasionado y versátil que pueda aportar experiencia técnica o habilidades pedagógicas, ¡me encantaría contactarme con vos! 🚀",
+    "location": {
+      "address": "27 Nro 1161",
+      "postalCode": "7620",
+      "city": "Balcarce, Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "",
+        "url": "https://x.com/ "
+      },
+      {
+        "network": "LinkedIn",
+        "username": " gustavo-emanuel-casas ",
+        "url": "https://www.linkedin.com/in/gustavo-emanuel-casas/"
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "https://github.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Asistente de obra",
+      "position": "Ayudante",
+      "url": null,
+      "startDate": "2013-05-01",
+      "endDate": "2014-12-01",
+      "summary": "Trabajos de albañilería, pintura e instalación eléctrica de proyectos residenciales.",
+      "highlights": ["Ref.: 2266 476467 (Nano)"]
+    },
+    {
+      "name": "E&M Servicio Técnico",
+      "position": "Encargado técnico-comercial",
+      "url": null,
+      "startDate": "2015-06-01",
+      "endDate": "2018-11-01",
+      "summary": "Local de insumos informáticos y servicio técnico de PC. Atención al público, reparación, y más actividades relacionadas.",
+      "highlights": ["Local actualmente fuera del circuito comercial"]
+    },
+    {
+      "name": "Asistencia técnica integral",
+      "position": "Cuenta propia",
+      "startDate": "2018-12-01",
+      "endDate": null,
+      "summary": "Reparación domiciliaria y remota de PC, instalación de programas y homenetwork. Instalaciones de seguridad y domótica (CCTV, cámaras IP), VPS y más.",
+      "highlights": ["Soluciones técnicas, instalación de programas y más"]
+    },
+    {
+      "name": "Apoyo escolar",
+      "position": "Cuenta propia",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "summary": "Clases particulares de nivel secundario en espacios curriculares varios (TICs, Ciencias Sociales). ",
+      "highlights": "Profesor de clases particulares"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "E.E.T Nº 1 - E.E.S Nº 3",
+      "url": "#",
+      "area": "Bachiller en Ciencias Sociales y Humanidades",
+      "studyType": "Presencial",
+      "startDate": "2007-04-01",
+      "endDate": "2012-12-01",
+      "score": "7.5",
+      "courses": [null],
+      "highlights": "Educación secundaria: completa"
+    },
+    {
+      "institution": "Fundación C.I.E.P",
+      "url": "https://fundacionciep.com/",
+      "area": "Mandatario Registral de Automotores y Créditos Prendarios",
+      "studyType": "Presencial",
+      "startDate": "2014-03-15",
+      "endDate": "2014-11-15",
+      "score": "9",
+      "courses": [null],
+      "highlights": "Fundación C.I.E.P"
+    },
+    {
+      "institution": "EGG Education",
+      "url": "https://egg.live/es-ar/",
+      "area": "Programador Full Stack Junior",
+      "studyType": "Asincrónico",
+      "startDate": "2023-03-15",
+      "endDate": "2023-11-15",
+      "score": "9",
+      "courses": ["Extra: PWDC – Programación Web (2023)"],
+      "highlights": "EGG Education"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+
+    {
+      "name": "MySQL",
+      "level": "Junior",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Junior",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+
+    {
+      "name": "Java",
+      "level": "Junior",
+      "keywords": ["Backend", "Programas"]
+    },
+    {
+      "name": "...",
+      "level": "Junior",
+      "keywords": ["Astro", "Typescript", "Bootstrap"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "🇦🇷 Español",
+      "fluency": "nativo"
+    },
+    {
+      "language": "🇺🇸 Inglés",
+      "fluency": "nivel intermedio"
+    }
+  ],
+  "IT": [
+    {
+      "summary": "Manejo de paquete Office y conocimientos en sistemas operativos, hardware, conectividad de redes, y edición básica de imágenes."
+    }
+  ],
+  "projects": [
+    {
+      "name": null,
+      "isActive": true,
+      "description": null,
+      "highlights": [null],
+      "url": null,
+      "github": "https://github.com/"
+    }
+  ]
+}
